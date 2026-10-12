@@ -1,10 +1,10 @@
 export const content = {
   name: "Tejashwi Arya",
 
-  role: "Software Development Associate",
+  role: "Software Developer | AI Engineer",
 
   tagline:
-    "Building scalable software systems, AI infrastructure, and intelligent applications.",
+    "I’m passionate about building software that is both engineered to scale and intelligent by design. From robust systems and elegant architectures to AI/ML-powered experiences, I love turning complex problems into meaningful products. Always learning, experimenting, and building what’s next.",
 
   location: "India",
 
