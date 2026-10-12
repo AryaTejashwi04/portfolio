@@ -242,7 +242,6 @@ export const content = {
   },
 
   achievements: [
-    "Received Rookie Award at DataFlow Group (2 of 15 interns recognized)",
     "Solved 800+ DSA problems on LeetCode",
     "Codeforces Specialist (Max 1416)",
     "CodeChef 3 Star (Max 1697)",
